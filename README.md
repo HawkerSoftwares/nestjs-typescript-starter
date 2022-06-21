@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. This project has been cloned from official [Nestjs Typescript Starter](https://github.com/nestjs/typescript-starter). This project demonstartes the use of Layouts/Views/Partials using [Handlebars.js](https://handlebarsjs.com/)
 
 ## Installation
 
@@ -64,8 +64,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
+- Author - [Narender Saini](https://github.com/narensaini)
+- Our Website - [Hawker Softwares](https://hawkersoftwares.com)
+- Original Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
+- Nestjs Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
