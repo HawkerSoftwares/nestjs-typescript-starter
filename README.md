@@ -54,7 +54,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Narender Saini](https://github.com/narensaini)
+- Updates By - [Narender Saini](https://github.com/narensaini)
 - Our Website - [Hawker Softwares](https://hawkersoftwares.com)
 - Original Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
 - Nestjs Website - [https://nestjs.com](https://nestjs.com/)
