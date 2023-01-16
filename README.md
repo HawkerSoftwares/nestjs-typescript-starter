@@ -9,7 +9,7 @@
    
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. This project has been cloned from official [Nestjs Typescript Starter](https://github.com/nestjs/typescript-starter). This project demonstartes the use of Layouts/Views/Partials using [Handlebars.js](https://handlebarsjs.com/)
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. This project has been cloned from official [Nestjs Typescript Starter](https://github.com/nestjs/typescript-starter). This project demonstrates the use of Layouts/Views/Partials. We are using a npm module of [Handlebars.js](https://handlebarsjs.com/) namely [express-handlebars](https://github.com/express-handlebars/express-handlebars). 
 
 ## Installation
 
